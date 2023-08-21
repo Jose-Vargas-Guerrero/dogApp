@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #48cae4;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar > h1{
+    margin: 20px;
+}
+
+.select{
+    font-size: 18px;
+}
